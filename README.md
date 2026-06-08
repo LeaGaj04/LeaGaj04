@@ -40,15 +40,15 @@ Aquí puedes ver el rendimiento de mi código y las tecnologías que más utiliz
 
 <div align="center">
   <!-- Tarjeta de Estadísticas Generales -->
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_DE_GITHUB&show_icons=true&theme=blood&include_all_commits=true&count_private=true" alt="Estadísticas de Leandro" height="190px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=LeaGaj04&show_icons=true&theme=blood&include_all_commits=true&count_private=true" alt="Estadísticas de Leandro" height="190px" />
   
   <!-- Tarjeta de Lenguajes más usados -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_DE_GITHUB&layout=compact&theme=blood" alt="Lenguajes más usados" height="190px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeaGaj04&layout=compact&theme=blood" alt="Lenguajes más usados" height="190px" />
 </div>
 
 <div align="center">
   <!-- Tarjeta de Racha (Streak) -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO_DE_GITHUB&theme=blood" alt="Racha de contribuciones" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LeaGaj04&theme=blood" alt="Racha de contribuciones" />
 </div>
 
 ---
