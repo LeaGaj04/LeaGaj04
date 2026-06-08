@@ -47,8 +47,7 @@ Aquí puedes ver el rendimiento de mi código y las tecnologías que más utiliz
 </div>
 
 <div align="center">
-  <!-- Tarjeta de Racha (Streak) -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LeaGaj04&background=000000&border=ff3333&text=ffffff&ring=ff3333&fire=ff3333&dates=ffffff" alt="Racha de contribuciones" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LeaGaj04&theme=dark&background=000000&border=ff3333&text=ffffff&ring=ff3333&fire=ff3333&dates=ffffff" alt="Racha de contribuciones" />
 </div>
 
 ---
