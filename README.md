@@ -44,6 +44,14 @@ Aquí puedes ver el rendimiento de mi código:
 
 ---
 
+### 🎮 Mi Tablero de Contribuciones en un Juego de Snake
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/LeaGaj04/LeaGaj04/output/github-contribution-grid-snake.svg" alt="GitHub Streak Snake" />
+</div>
+
+---
+
 ## 🤝 Conectemos
 
 Si quieres hablar sobre desarrollo web, proyectos visuales o videojuegos, ¡no dudes en contactarme!
