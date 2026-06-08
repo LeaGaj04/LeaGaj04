@@ -12,7 +12,7 @@ Soy un apasionado del desarrollo **Frontend** y el diseño interactivo. Me encan
 
 * 💻 Actualmente enfocado en la creación de aplicaciones web dinámicas con **JavaScript** y **React**.
 * 💻 Detallista con la estética visual, las animaciones y la experiencia de usuario (UX).
-* 🎮 En mis tiempos libres, diseño mecánicas de juego y experimento con motores de desarrollo.
+* 💻 En mis tiempos libres, diseño mecánicas de juego y experimento con motores de desarrollo.
 
 ---
 
