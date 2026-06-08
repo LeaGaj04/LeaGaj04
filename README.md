@@ -39,14 +39,6 @@ Soy un apasionado del desarrollo **Frontend** y el diseño interactivo. Me encan
 Aquí puedes ver el rendimiento de mi código y las tecnologías que más utilizo en el día a día:
 
 <div align="center">
-  <!-- Tarjeta de Estadísticas Generales -->
-  <img src="https://github-readme-stats.vercel.app/api?username=LeaGaj04&show_icons=true&include_all_commits=true&count_private=true&bg_color=000000&title_color=ff3333&text_color=ffffff&icon_color=ff3333&border_color=ff3333" alt="Estadísticas de Leandro" height="190px" />
-  
-  <!-- Tarjeta de Lenguajes más usados -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeaGaj04&layout=compact&bg_color=000000&title_color=ff3333&text_color=ffffff&border_color=ff3333" alt="Lenguajes más usados" height="190px" />
-</div>
-
-<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=LeaGaj04&theme=dark&background=000000&border=ff3333&text=ffffff&ring=ff3333&fire=ff3333&dates=ffffff" alt="Racha de contribuciones" />
 </div>
 
