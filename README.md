@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>¡Hola! Soy Leandro 👋</h1>
+  <h1>¡Hola! Soy Leandro </h1>
   <h3>Ingeniero en Informática | Frontend Developer & Game Dev Enthusiast</h3>
   <p>De Chile 🇨🇱 para el mundo, uniendo la lógica del código con el impacto visual.</p>
 </div>
@@ -11,12 +11,12 @@
 Soy un apasionado del desarrollo **Frontend** y el diseño interactivo. Me encanta transformar ideas complejas en interfaces web limpias, fluidas y atractivas. Además, canalizo mi creatividad en el **desarrollo de videojuegos**, un mundo donde la programación y el arte digital se encuentran.
 
 * 💻 Actualmente enfocado en la creación de aplicaciones web dinámicas con **JavaScript** y **React**.
-* 🎨 Detallista con la estética visual, las animaciones y la experiencia de usuario (UX).
+* 💻 Detallista con la estética visual, las animaciones y la experiencia de usuario (UX).
 * 🎮 En mis tiempos libres, diseño mecánicas de juego y experimento con motores de desarrollo.
 
 ---
 
-## 🛠️ Tecnologías y Herramientas
+## Tecnologías y Herramientas
 
 ### Desarrollo Frontend & Web
 <p align="left">
@@ -54,10 +54,10 @@ Aquí puedes ver el rendimiento de mi código y las tecnologías que más utiliz
 Si quieres hablar sobre desarrollo web, proyectos visuales o videojuegos, ¡no dudes en contactarme!
 
 <p align="left">
-  <a href="https://linkedin.com/in/TU_LINKEDIN" target="_blank">
+  <a href="https://linkedin.com/in/Leandro-Gajardo" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:TU_CORREO@email.com">
+  <a href="mailto:Leandrogajardo.abg@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </p>
