@@ -36,7 +36,7 @@ Soy un apasionado del desarrollo **Frontend** y el diseño interactivo. Me encan
 
 ## 📊 Mis Estadísticas de GitHub
 
-Aquí puedes ver el rendimiento de mi código y las tecnologías que más utilizo en el día a día:
+Aquí puedes ver el rendimiento de mi código:
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=LeaGaj04&theme=dark&background=000000&border=ff3333&text=ffffff&ring=ff3333&fire=ff3333&dates=ffffff" alt="Racha de contribuciones" />
