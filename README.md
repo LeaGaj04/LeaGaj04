@@ -54,7 +54,7 @@ Aquí puedes ver el rendimiento de mi código y las tecnologías que más utiliz
 Si quieres hablar sobre desarrollo web, proyectos visuales o videojuegos, ¡no dudes en contactarme!
 
 <p align="left">
-  <a href="https://linkedin.com/in/Leandro-Gajardo" target="_blank">
+  <a href="https://www.linkedin.com/in/leandro-gajardo-2b8773253/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:Leandrogajardo.abg@gmail.com">
