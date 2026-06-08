@@ -39,12 +39,16 @@ Soy un apasionado del desarrollo **Frontend** y el diseño interactivo. Me encan
 Aquí puedes ver el rendimiento de mi código y las tecnologías que más utilizo en el día a día:
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=leandro-dev&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Estadísticas de Leandro" height="190px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leandro-dev&layout=compact&theme=radical" alt="Lenguajes más usados" height="190px" />
+  <!-- Tarjeta de Estadísticas Generales -->
+  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_DE_GITHUB&show_icons=true&theme=blood&include_all_commits=true&count_private=true" alt="Estadísticas de Leandro" height="190px" />
+  
+  <!-- Tarjeta de Lenguajes más usados -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_DE_GITHUB&layout=compact&theme=blood" alt="Lenguajes más usados" height="190px" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=leandro-dev&theme=radical" alt="Racha de contribuciones" />
+  <!-- Tarjeta de Racha (Streak) -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO_DE_GITHUB&theme=blood" alt="Racha de contribuciones" />
 </div>
 
 ---
