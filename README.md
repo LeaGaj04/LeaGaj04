@@ -50,8 +50,6 @@ Aquí puedes ver el rendimiento de mi código:
   <img src="https://raw.githubusercontent.com/LeaGaj04/LeaGaj04/output/github-contribution-grid-snake.svg" alt="GitHub Streak Snake" />
 </div>
 
-[https://raw.githubusercontent.com/LeaGaj04/LeaGaj04/main/assets/image_17.png](https://raw.githubusercontent.com/LeaGaj04/LeaGaj04/main/assets/image_17.png)
-
 ---
 
 ## 🤝 Conectemos
