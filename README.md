@@ -40,7 +40,7 @@ Aquí puedes ver el rendimiento de mi código:
 
 <div align="center">
   <!-- Gráfico visual de actividad (curva de contribuciones) -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LeaGaj04&bg_color=000000&color=ff3333&line=ff3333&point=ffffff&area=true&hide_border=true" alt="Gráfico de Actividad" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LeaGaj04&bg_color=000000&color=ff3333&line=ff3333&point=ffffff&area=true&hide_border=true&locale=es" alt="Gráfico de Actividad" width="100%" />
   
   <br><br>
 
