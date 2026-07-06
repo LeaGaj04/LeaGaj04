@@ -39,7 +39,13 @@ Soy un apasionado del desarrollo **Frontend** y el diseño interactivo. Me encan
 Aquí puedes ver el rendimiento de mi código:
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LeaGaj04&theme=dark&background=000000&border=ff3333&text=ffffff&ring=ff3333&fire=ff3333&dates=ffffff" alt="Racha de contribuciones" />
+  <!-- Gráfico visual de actividad (curva de contribuciones) -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LeaGaj04&bg_color=000000&color=ff3333&line=ff3333&point=ffffff&area=true&hide_border=true" alt="Gráfico de Actividad" width="100%" />
+  
+  <br><br>
+
+  <!-- Tarjeta de racha numérica arreglada (usando un servidor estable) -->
+  <img src="https://streak-stats.demolab.com/?user=LeaGaj04&theme=dark&background=000000&border=ff3333&text=ffffff&ring=ff3333&fire=ff3333&dates=ffffff" alt="Racha de contribuciones" />
 </div>
 
 ---
