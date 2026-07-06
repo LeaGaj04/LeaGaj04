@@ -19,14 +19,14 @@ Soy un apasionado del desarrollo **Frontend** y el diseño interactivo. Me encan
 ## Tecnologías y Herramientas
 
 ### Desarrollo Frontend & Web
-<p align="left">
-  <div>
-    ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-    ![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=ff3333)
-    ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=ff3333)
-    ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=ff3333)
-  </div>
-</p>
+<div align="left">
+  
+  ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+  ![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=ff3333)
+  ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=ff3333)
+  ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=ff3333)
+  
+</div>
 
 ### Videojuegos y Diseño (Intereses y Práctica)
 <p align="left">
