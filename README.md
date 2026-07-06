@@ -41,14 +41,8 @@ Soy un apasionado del desarrollo **Frontend** y el diseño interactivo. Me encan
 Aquí puedes ver el rendimiento de mi código:
 
 <div align="center">
-  
-  <!-- Fila Superior: Perfil y Estadísticas (Tema oscuro con detalles rojizos) -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LeaGaj04&theme=radical" width="48%" alt="Detalles de Perfil">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=LeaGaj04&theme=radical" width="48%" alt="Estadísticas de Perfil">
 
-  <br><br>
-
-  <!-- Fila Inferior: Tu gráfico de curva de contribuciones en rojo puro -->
+  <!-- gráfico de curva de contribuciones en rojo puro -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=LeaGaj04&bg_color=000000&color=ff3333&line=ff3333&point=ffffff&area=true&hide_border=true" width="100%" alt="Gráfico de Actividad">
 
 </div>
