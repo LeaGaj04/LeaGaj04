@@ -41,23 +41,17 @@ Soy un apasionado del desarrollo **Frontend** y el diseño interactivo. Me encan
 Aquí puedes ver el rendimiento de mi código:
 
 <div align="center">
-  <!-- Gráfico visual de actividad (curva de contribuciones) -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LeaGaj04&bg_color=000000&color=ff3333&line=ff3333&point=ffffff&area=true&hide_border=true&locale=es" alt="Gráfico de Actividad" width="100%" />
   
-</div>
+  <!-- Fila Superior: Perfil y Estadísticas (Tema oscuro con detalles rojizos) -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LeaGaj04&theme=radical" width="48%" alt="Detalles de Perfil">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=LeaGaj04&theme=radical" width="48%" alt="Estadísticas de Perfil">
 
-<div align="center">
-  <h3>📊 Mis Estadísticas en GitHub</h3>
+  <br><br>
 
-  | 🏆 Métrica | 📈 Cantidad |
-  | :--- | :---: |
-  | **Contribuciones (Último año)** | 135+ |
-  | **Proyectos / Repositorios** | 3 |
-  | **Lenguajes Principales** | JavaScript, React, Next.js |
-  | **Horas de Vuelo (Años)** | 1 |
+  <!-- Fila Inferior: Tu gráfico de curva de contribuciones en rojo puro -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LeaGaj04&bg_color=000000&color=ff3333&line=ff3333&point=ffffff&area=true&hide_border=true" width="100%" alt="Gráfico de Actividad">
 
 </div>
-
 
 ---
 
