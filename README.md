@@ -42,13 +42,16 @@ Aquí puedes ver el rendimiento de mi código:
   <!-- Gráfico visual de actividad (curva de contribuciones) -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=LeaGaj04&bg_color=000000&color=ff3333&line=ff3333&point=ffffff&area=true&hide_border=true&locale=es" alt="Gráfico de Actividad" width="100%" />
   
+</div>
+
 <br><br>
 
-  <!-- Nueva alternativa: Estadísticas generales -->
-  <img src="https://github-readme-stats.vercel.app/api?username=LeaGaj04&show_icons=true&theme=dark&bg_color=000000&title_color=ff3333&icon_color=ff3333&border_color=ff3333" alt="Estadísticas Generales" />
-  
-  <!-- Nueva alternativa: Top Lenguajes -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeaGaj04&layout=compact&theme=dark&bg_color=000000&title_color=ff3333&text_color=ffffff&border_color=ff3333" alt="Lenguajes más usados" />
+<div align="center">
+  <h3>Mi Stack</h3>
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=ff3333" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=ff3333" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=ff3333" alt="Vercel" />
 </div>
 
 ---
