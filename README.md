@@ -46,6 +46,18 @@ Aquí puedes ver el rendimiento de mi código:
   
 </div>
 
+<div align="center">
+  <h3>📊 Mis Estadísticas en GitHub</h3>
+
+  | 🏆 Métrica | 📈 Cantidad |
+  | :--- | :---: |
+  | **Contribuciones (Último año)** | 135+ |
+  | **Proyectos / Repositorios** | 3 |
+  | **Lenguajes Principales** | JavaScript, React, Next.js |
+  | **Horas de Vuelo (Años)** | 1 |
+
+</div>
+
 
 ---
 
