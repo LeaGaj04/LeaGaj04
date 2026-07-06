@@ -42,10 +42,13 @@ Aquí puedes ver el rendimiento de mi código:
   <!-- Gráfico visual de actividad (curva de contribuciones) -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=LeaGaj04&bg_color=000000&color=ff3333&line=ff3333&point=ffffff&area=true&hide_border=true&locale=es" alt="Gráfico de Actividad" width="100%" />
   
-  <br><br>
+<br><br>
 
-  <!-- Tarjeta de racha numérica arreglada (usando un servidor estable) -->
-  <img src="https://streak-stats.demolab.com/?user=LeaGaj04&theme=dark&background=000000&border=ff3333&text=ffffff&ring=ff3333&fire=ff3333&dates=ffffff" alt="Racha de contribuciones" />
+  <!-- Nueva alternativa: Estadísticas generales -->
+  <img src="https://github-readme-stats.vercel.app/api?username=LeaGaj04&show_icons=true&theme=dark&bg_color=000000&title_color=ff3333&icon_color=ff3333&border_color=ff3333" alt="Estadísticas Generales" />
+  
+  <!-- Nueva alternativa: Top Lenguajes -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeaGaj04&layout=compact&theme=dark&bg_color=000000&title_color=ff3333&text_color=ffffff&border_color=ff3333" alt="Lenguajes más usados" />
 </div>
 
 ---
