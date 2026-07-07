@@ -43,7 +43,7 @@ Aquí puedes ver el rendimiento de mi código:
 <div align="center">
   
   <!-- Tarjeta Superior: Racha de Contribuciones -->
-  <img src="https://streak-stats.demolab.com/?user=LeaGaj04&theme=dark&background=000000&border=ff3333&ring=ff3333&fire=ff3333&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ff3333&sideLabels=ffffff&dates=cccccc&v=2" alt="Racha de contribuciones" />
+  <img src="https://streak-stats.demolab.com/?user=LeaGaj04&theme=dark&background=000000&border=ff3333&ring=ff3333&fire=ff3333&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ff3333&sideLabels=ffffff&dates=cccccc&v=1" alt="Racha de contribuciones" />
 
   <br><br>
 
@@ -52,6 +52,8 @@ Aquí puedes ver el rendimiento de mi código:
   <img src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=LeaGaj04&layout=compact&theme=dark&bg_color=000000&title_color=ff3333&text_color=ffffff&border_color=ff3333&v=2" height="195" alt="Lenguajes más usados" />
 
 </div>
+
+  <br><br>
 
 <div align="center">
 
