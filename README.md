@@ -18,7 +18,7 @@ Soy un apasionado del desarrollo **Frontend** y el diseño interactivo. Me encan
 
 ## Tecnologías y Herramientas
 
-### Desarrollo Frontend & We
+### Desarrollo Frontend & Web
 <div align="left">
   
   ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
@@ -43,13 +43,13 @@ Aquí puedes ver el rendimiento de mi código:
 <div align="center">
   
   <!-- Tarjeta Superior: Racha de Contribuciones -->
-  <img src="https://streak-stats.demolab.com/?user=LeaGaj04&theme=dark&background=000000&border=ff3333&ring=ff3333&fire=ff3333&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ff3333&sideLabels=ffffff&dates=cccccc" alt="Racha de contribuciones" />
+  <img src="https://streak-stats.demolab.com/?user=LeaGaj04&theme=dark&background=000000&border=ff3333&ring=ff3333&fire=ff3333&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ff3333&sideLabels=ffffff&dates=cccccc&v=1" alt="Racha de contribuciones" />
 
   <br><br>
 
-  <!-- Fila Inferior: Estadísticas y Lenguajes (Uno al lado del otro) -->
-  <img src="https://github-readme-stats.vercel.app/api?username=LeaGaj04&show_icons=true&theme=dark&bg_color=000000&title_color=ff3333&icon_color=ff3333&border_color=ff3333&text_color=ffffff" height="195" alt="Estadísticas Generales" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeaGaj04&layout=compact&theme=dark&bg_color=000000&title_color=ff3333&text_color=ffffff&border_color=ff3333" height="195" alt="Lenguajes más usados" />
+  <!-- Fila Inferior: Estadísticas y Lenguajes (Uno al lado del otro, con Cache Buster) -->
+  <img src="https://github-readme-stats.vercel.app/api?username=LeaGaj04&show_icons=true&theme=dark&bg_color=000000&title_color=ff3333&icon_color=ff3333&border_color=ff3333&text_color=ffffff&v=1" height="195" alt="Estadísticas Generales" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeaGaj04&layout=compact&theme=dark&bg_color=000000&title_color=ff3333&text_color=ffffff&border_color=ff3333&v=1" height="195" alt="Lenguajes más usados" />
 
 </div>
 
