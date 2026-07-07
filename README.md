@@ -53,6 +53,8 @@ Aquí puedes ver el rendimiento de mi código:
 
 </div>
 
+  <br><br>
+
 <div align="center">
 
   <!-- gráfico de curva de contribuciones en rojo puro -->
