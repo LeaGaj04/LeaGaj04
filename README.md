@@ -6,7 +6,7 @@
 
 ---
 
-## 🚀 Sobre Mí
+## Sobre Mí
 
 Soy un apasionado del desarrollo **Frontend** y el diseño interactivo. Me encanta transformar ideas complejas en interfaces web limpias, fluidas y atractivas. Además, canalizo mi creatividad en el **desarrollo de videojuegos**, un mundo donde la programación y el arte digital se encuentran.
 
@@ -36,7 +36,7 @@ Soy un apasionado del desarrollo **Frontend** y el diseño interactivo. Me encan
 
 ---
 
-## 📊 Mis Estadísticas de GitHub
+## Mis Estadísticas de GitHub
 
 Aquí puedes ver el rendimiento de mi código:
 
@@ -75,7 +75,7 @@ Aquí puedes ver el rendimiento de mi código:
 
 ---
 
-## 🤝 Conectemos
+## Conectemos
 
 Si quieres hablar sobre desarrollo web, proyectos visuales o videojuegos, ¡no dudes en contactarme!
 
