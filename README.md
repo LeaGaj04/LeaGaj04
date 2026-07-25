@@ -1,4 +1,4 @@
-<img width="2064" height="512" alt="1784947429085" src="https://github.com/user-attachments/assets/e976e42e-b9a6-4266-8775-f1fc67449cfc" />
+<img width="2064" height="512" alt="Agregar un subtítulo" src="https://github.com/user-attachments/assets/b311b94d-0084-49fb-a476-1e9743743a8c" />
 
 ---
 
