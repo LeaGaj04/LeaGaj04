@@ -1,8 +1,4 @@
-<div align="center">
-  <h1>¡Hola! Soy Leandro </h1>
-  <h3>Ingeniero en Informática | Frontend Developer & Game Dev Enthusiast</h3>
-  <p>De Chile 🇨🇱 para el mundo, uniendo la lógica del código con el impacto visual.</p>
-</div>
+<img width="2064" height="512" alt="1784947429085" src="https://github.com/user-attachments/assets/e976e42e-b9a6-4266-8775-f1fc67449cfc" />
 
 ---
 
