@@ -36,7 +36,7 @@ Soy un apasionado del desarrollo **Frontend** y el diseño interactivo. Me encan
 
 Aquí puedes ver el rendimiento de mi código:
 
-<div align="center">
+<div>
   
   <!-- Fila Inferior: Estadísticas y Lenguajes (Usando el Mirror Alternativo 'anuraghazra1') -->
   <img src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=LeaGaj04&show_icons=true&theme=dark&bg_color=000000&title_color=ff3333&icon_color=ff3333&border_color=ff3333&text_color=ffffff&v=2" height="195" alt="Estadísticas Generales" />
