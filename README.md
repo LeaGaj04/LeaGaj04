@@ -34,12 +34,12 @@ Soy un apasionado del desarrollo **Frontend** y el diseño interactivo. Me encan
 
 ## Mis Estadísticas de GitHub
 
-Aquí puedes ver el rendimiento de mi código:
+Aquí puedes ver el uso de mi código:
 
 <div>
   
   <!-- Fila Inferior: Estadísticas y Lenguajes (Usando el Mirror Alternativo 'anuraghazra1') -->
-  <img src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=LeaGaj04&layout=compact&theme=dark&bg_color=000000&title_color=ff3333&text_color=ffffff&border_color=ff3333&v=2" height="195" alt="Lenguajes más usados" />
+  <img src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=LeaGaj04&layout=compact&theme=dark&bg_color=000000&title_color=FFFFFF&text_color=ffffff&border_color=FF0000&v=2" height="195" alt="Lenguajes más usados" />
   
 </div>
 
