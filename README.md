@@ -40,16 +40,9 @@ Aquí puedes ver el rendimiento de mi código:
   
   <!-- Fila Inferior: Estadísticas y Lenguajes (Usando el Mirror Alternativo 'anuraghazra1') -->
   <img src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=LeaGaj04&show_icons=true&theme=dark&bg_color=000000&title_color=ff3333&icon_color=ff3333&border_color=ff3333&text_color=ffffff&v=2" height="195" alt="Estadísticas Generales" />
-  <img src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=LeaGaj04&layout=compact&theme=dark&bg_color=000000&title_color=ff3333&text_color=ffffff&border_color=ff3333&v=2" height="195" alt="Lenguajes más usados" />
   
 </div>
 
-<div align="center">
-
-  <!-- gráfico de curva de contribuciones en rojo puro -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LeaGaj04&bg_color=000000&color=ff3333&line=ff3333&point=ffffff&area=true&hide_border=true" width="100%" alt="Gráfico de Actividad">
-
-</div>
 
 ---
 
