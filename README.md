@@ -6,7 +6,7 @@
 
 Soy un apasionado del desarrollo **Frontend** y el diseño interactivo. Me encanta transformar ideas complejas en interfaces web limpias, fluidas y atractivas. Además, canalizo mi creatividad en el **desarrollo de videojuegos**, un mundo donde la programación y el arte digital se encuentran.
 
-* 💻 Actualmente enfocado en la creación de aplicaciones web dinámicas con **JavaScript** y **React**.
+* 💻 Actualmente enfocado en la creación de aplicaciones web dinámicas con **JavaScript**, **React** y **Astro**.
 * 💻 Detallista con la estética visual, las animaciones y la experiencia de usuario (UX).
 * 💻 En mis tiempos libres, diseño mecánicas de juego y experimento con motores de desarrollo.
 
