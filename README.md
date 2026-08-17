@@ -56,53 +56,8 @@ Soy un apasionado del desarrollo **Frontend** y el diseño interactivo. Me encan
   <img src="https://img.shields.io/badge/Lovable-FF6B6B?style=for-the-badge" alt="Lovable" />
 </div>
 
-------
-
-## Tecnologías y Herramientas
-
-### Desarrollo Frontend & Web
-<div align="left">
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/Astro-0C1120?style=for-the-badge&logo=astro&logoColor=white" alt="Astro" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
-</div>
-
-### Desarrollo Móvil & Bases de Datos
-<div align="left">
-  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" alt="Android Studio" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/SQL_Developer-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="SQL Developer" />
-</div>
-
-### Diseño UI/UX & Videojuegos
-<div align="left">
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
-  <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity" />
-  <img src="https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white" alt="Godot" />
-</div>
-
-### Herramientas, Control de Versiones & Entornos
-<div align="left">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white" alt="Visual Studio" />
-  <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
-  <img src="https://img.shields.io/badge/Base44-555555?style=for-the-badge" alt="Base44" />
-  <img src="https://img.shields.io/badge/Antigravity-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Antigravity" />
-</div>
-
-### Inteligencia Artificial Aplicada
-<div align="left">
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
-  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude" />
-  <img src="https://img.shields.io/badge/Gamma.ai-1E1E1E?style=for-the-badge" alt="Gamma.ai" />
-  <img src="https://img.shields.io/badge/Lovable-FF6B6B?style=for-the-badge" alt="Lovable" />
-</div>
-
 ---
+
 ## Mis Estadísticas de GitHub
 
 Aquí puedes ver el uso de mi código:
