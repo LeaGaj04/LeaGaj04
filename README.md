@@ -1,4 +1,4 @@
-<img width="2064" height="512" alt="Agregar un subtítulo" src="https://github.com/user-attachments/assets/b311b94d-0084-49fb-a476-1e9743743a8c" />
+<img width="1584" height="396" alt="Leandro Gajardo LeaGaj04" src="https://github.com/user-attachments/assets/904d3908-efc8-49ad-b93c-9b3276b91bb1" />
 
 ---
 
