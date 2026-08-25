@@ -1,7 +1,7 @@
 <img width="1584" height="396" alt="Leandro Gajardo LeaGaj04 (1)" src="https://github.com/user-attachments/assets/9c1a67b4-25ff-40e1-a5cb-e7596fa14ea4" />
 
 
-<img src=".github/workflows/linea-roja.svg" width="100%" alt="Línea animada">
+---
 
 ## Sobre Mí
 
@@ -11,7 +11,7 @@ Soy un apasionado del desarrollo **Frontend** y el diseño interactivo. Me encan
 * 💻 Detallista con la estética visual, las animaciones y la experiencia de usuario (UX).
 * 💻 En mis tiempos libres, diseño mecánicas de juego y experimento con motores de desarrollo.
 
----
+<img src=".github/workflows/linea-roja.svg" width="100%" alt="Línea animada">
 
 ## Tecnologías y Herramientas
 
@@ -66,7 +66,7 @@ Soy un apasionado del desarrollo **Frontend** y el diseño interactivo. Me encan
   <img src="https://img.shields.io/badge/Lovable-FF6B6B?style=for-the-badge" alt="Lovable" />
 </div>
 
----
+<img src=".github/workflows/linea-roja.svg" width="100%" alt="Línea animada">
 
 ## Mis Estadísticas de GitHub
 Aquí puedes ver el uso de mi código y mi racha de contribuciones:
@@ -77,7 +77,7 @@ Aquí puedes ver el uso de mi código y mi racha de contribuciones:
 </div>
 
 
----
+<img src=".github/workflows/linea-roja.svg" width="100%" alt="Línea animada">
 
 <div align="center">
   <h3>Mis Contribuciones con el Snake.</h3>
@@ -88,7 +88,7 @@ Aquí puedes ver el uso de mi código y mi racha de contribuciones:
   </picture>
 </div>
 
----
+<img src=".github/workflows/linea-roja.svg" width="100%" alt="Línea animada">
 
 ## Conectemos
 
