@@ -11,7 +11,7 @@
       <p>Soy un apasionado del desarrollo <strong>Frontend</strong> y el diseño interactivo. Me encanta transformar ideas complejas en interfaces web limpias, fluidas y atractivas. Además, canalizo mi creatividad en el <strong>desarrollo de videojuegos</strong>, un mundo donde la programación y el arte digital se encuentran.</p>
     </td>
     <td width="30%" align="center">
-  <img width="200" alt="foto" src="https://github.com/user-attachments/assets/a04a1122-750d-4993-bfa4870509e7d221"/>
+        <img width="1254" height="1254" alt="foto" src="https://github.com/user-attachments/assets/e20b2628-c968-49bf-8468-e697f15f1ee2" />
     </td>
   </tr>
 </table>
