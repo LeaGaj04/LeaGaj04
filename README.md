@@ -24,6 +24,8 @@ Soy un apasionado del desarrollo **Frontend** y el diseño interactivo. Me encan
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
 </div>
 
+<img src="https://raw.githubusercontent.com/LeaGaj04/LeaGaj04/main/linea-roja.svg" width="100%" alt="Línea animada">
+
 ### Backend, Bases de Datos & Cloud
 <div align="left">
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
