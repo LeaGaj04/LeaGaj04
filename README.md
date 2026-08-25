@@ -87,8 +87,8 @@ Aquí puedes ver el uso de mi código y mi racha de contribuciones:
   </nobr>
 </div>
 
-<img src=".github/workflows/linea-roja.svg" width="100%" alt="Línea animada">
 ---
+<img src=".github/workflows/linea-roja.svg" width="100%" alt="Línea animada">
 
 <div align="center">
   <h3>Mis Contribuciones con el Snake.</h3>
