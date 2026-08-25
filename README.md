@@ -1,4 +1,5 @@
-<img width="1584" height="396" alt="Leandro Gajardo LeaGaj04" src="https://github.com/user-attachments/assets/904d3908-efc8-49ad-b93c-9b3276b91bb1" />
+<img width="1584" height="396" alt="Leandro Gajardo LeaGaj04 (1)" src="https://github.com/user-attachments/assets/9c1a67b4-25ff-40e1-a5cb-e7596fa14ea4" />
+
 
 ---
 
