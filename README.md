@@ -1,7 +1,7 @@
 <img width="1584" height="396" alt="Leandro Gajardo LeaGaj04 (1)" src="https://github.com/user-attachments/assets/9c1a67b4-25ff-40e1-a5cb-e7596fa14ea4" />
 
 
----
+<img src="https://raw.githubusercontent.com/LeaGaj04/LeaGaj04/main/linea-roja.svg" width="100%" alt="Línea animada">
 
 ## Sobre Mí
 
