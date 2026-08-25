@@ -4,9 +4,17 @@
 ---
 <img src=".github/workflows/linea-roja.svg" width="100%" alt="Línea animada">
 
-## Sobre Mí
-
-Soy un apasionado del desarrollo **Frontend** y el diseño interactivo. Me encanta transformar ideas complejas en interfaces web limpias, fluidas y atractivas. Además, canalizo mi creatividad en el **desarrollo de videojuegos**, un mundo donde la programación y el arte digital se encuentran.
+<table>
+  <tr>
+    <td width="70%">
+      <h2>Sobre Mí</h2>
+      <p>Soy un apasionado del desarrollo <strong>Frontend</strong> y el diseño interactivo. Me encanta transformar ideas complejas en interfaces web limpias, fluidas y atractivas. Además, canalizo mi creatividad en el <strong>desarrollo de videojuegos</strong>, un mundo donde la programación y el arte digital se encuentran.</p>
+    </td>
+    <td width="30%" align="center">
+  <img width="200" alt="foto" src="https://github.com/user-attachments/assets/a04a1122-750d-4993-bfa4870509e7d221"/>
+    </td>
+  </tr>
+</table>
 
 * 💻 Actualmente enfocado en la creación de aplicaciones web dinámicas con **JavaScript**, **React** y **Astro**.
 * 💻 Detallista con la estética visual, las animaciones y la experiencia de usuario (UX).
@@ -80,7 +88,7 @@ Aquí puedes ver el uso de mi código y mi racha de contribuciones:
   </nobr>
 </div>
 
-
+<img src=".github/workflows/linea-roja.svg" width="100%" alt="Línea animada">
 ---
 
 <div align="center">
