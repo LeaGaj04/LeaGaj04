@@ -2,6 +2,7 @@
 
 
 ---
+<img src=".github/workflows/linea-roja.svg" width="100%" alt="Línea animada">
 
 ## Sobre Mí
 
@@ -11,6 +12,7 @@ Soy un apasionado del desarrollo **Frontend** y el diseño interactivo. Me encan
 * 💻 Detallista con la estética visual, las animaciones y la experiencia de usuario (UX).
 * 💻 En mis tiempos libres, diseño mecánicas de juego y experimento con motores de desarrollo.
 
+---
 <img src=".github/workflows/linea-roja.svg" width="100%" alt="Línea animada">
 
 ## Tecnologías y Herramientas
