@@ -68,7 +68,7 @@ Soy un apasionado del desarrollo **Frontend** y el diseño interactivo. Me encan
   <img src="https://img.shields.io/badge/Lovable-FF6B6B?style=for-the-badge" alt="Lovable" />
 </div>
 
-<img src=".github/workflows/linea-roja.svg" width="100%" alt="Línea animada">
+---
 
 ## Mis Estadísticas de GitHub
 Aquí puedes ver el uso de mi código y mi racha de contribuciones:
@@ -81,7 +81,7 @@ Aquí puedes ver el uso de mi código y mi racha de contribuciones:
 </div>
 
 
-<img src=".github/workflows/linea-roja.svg" width="100%" alt="Línea animada">
+---
 
 <div align="center">
   <h3>Mis Contribuciones con el Snake.</h3>
@@ -92,7 +92,7 @@ Aquí puedes ver el uso de mi código y mi racha de contribuciones:
   </picture>
 </div>
 
-<img src=".github/workflows/linea-roja.svg" width="100%" alt="Línea animada">
+---
 
 ## Conectemos
 
