@@ -81,11 +81,12 @@
 ## Mis Estadísticas de GitHub
 Aquí puedes ver el uso de mi código y mi racha de contribuciones:
 
-<div align="center">
-  <nobr>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=LeaGaj04&theme=dark&background=0D1117&hide_border=true&ring=E05D5D&fire=E05D5D&currStreakLabel=E05D5D" height="195" alt="Racha de contribuciones" />
-  </nobr>
-</div>
+<p align="center">
+<a href="https://github.com/AVS1508">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AVS1508&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AVS1508&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
 
 ---
 <img src=".github/workflows/linea-roja.svg" width="100%" alt="Línea animada">
