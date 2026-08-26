@@ -84,7 +84,7 @@ Aquí puedes ver el uso de mi código y mi racha de contribuciones:
 <p align="center">
   <a href="https://github.com/LeaGaj04">
     <img height="180" src="https://github-readme-statseighttheta.vercel.app/apiusername=LeaGaj04&show_icons=true&theme=dark&bg_color=0D1117&hide_border=true&title_color=E05D5D&icon_color=E05D5D&include_all_commits=true&count_private=true&v=1" alt="Estadísticas de GitHub" />
-    <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=LeaGaj04&layout=compact&langs_count=8&theme=dark&bg_color=0D1117&hide_border=true&title_color=E05D5D&v=1" alt="Lenguajes más usados" />
+    <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/username=LeaGaj04&layout=compact&langs_count=8&theme=dark&bg_color=0D1117&hide_border=true&title_color=E05D5D&v=1"alt="Lenguajesmás usados" />
   </a>
 </p>
 
